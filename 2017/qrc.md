@@ -1,13 +1,13 @@
 Title: PWCARES Quick Reference Guide
 Author: David A. Lane, KG4GIY, EC Prince William ARES
 Email: ec@pwcares.org
-Date: 15 September 2017 v6.2
-Keywords: QRC PWCARES 2017 version6
+Date: 15 September 2017 v6.3
+Keywords: QRC PWCARES 2018 version6
 
 # Prince William County ARES
 ## Quick Reference Guide
 
-_version_: 6.2  
+_version_: 6.3  
 [Printable (PDF) Version][link-qrcpdf]  
 [Return to PWCARES][link-pwcares]
 
@@ -71,11 +71,11 @@ _version_: 6.2
 | 7              | MTVERN/Mount Vernon (Alexandria) | 146.655 - | 141.3 Hz |
 | 8              | ALEX2M/Alexandria ARES | 147.315 + | |
 | 9              | ARL2M/Arlington ARES   | 145.470 - | |
-| 10             | FAQ2M/Fauquier ARES    | 147.470 + | 167.9 Hz |
+| 10             | FAQ2M/Fauquier ARES    | 147.165 + | 167.9 Hz |
 | 11             | LOU2M/Loudon ARES      | 145.310 - | |
 | 12             | DULLES/Dulles Airport 2m machine, max 15w out | 147.330 + | 203.5 Hz |
 | 21             | OVH440/Command and Control/Operations and Logistics | 442.200 + | |
-| 22             | WWI440/Command and Control/Operations and Logistics | 444.900 + | |
+| 22             | WWI440/Command and Control/Operations and Logistics | 444.900 + | 127.5 |
 | 23             | FALLSC/Fall Church ARES | 442.425 + | 91.5 Hz |
 | 24             | NERA/Main Repeater, linked system | 442.725 + | 107.2 Hz |
 | 25             | NERA/DC | 449.975 - | 107.2 Hz |
