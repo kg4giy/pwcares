@@ -35,9 +35,9 @@ Version: 20180324 v1
 * Bill Payne, K5AE
 * Mark Redlinger, W3SR
 * Brendan O'Neill, KM4HRR
-* John Held, ....
-* Larry Reynolds,
-* Jonathan Ortega,
+* John Held, KK4TCE
+* Larry Reynolds, K4MLA
+* Jonathan Ortega, KK4UZD
 * Greg Gresham, KM4CCG
 
 Return to [Summary] [section-summary]
@@ -48,17 +48,17 @@ Return to [Summary] [section-summary]
 
 * __Start-Stop__ : Tom, W4PIO
 * __Mile 1/10 (enter off Dumfries)__ : Ray, AA4SI with Phong, KM4PRX
-* __Mile 2/9 (Turn at the crossroads of Burma and Scenic and proceed up the road)__ : Jonathan Ortega
+* __Mile 2/9 (Turn at the crossroads of Burma and Scenic and proceed up the road)__ : Jon, KK4UZD
 * __Mile 3 (in the woods)__ : Andy, KJ4MTP
 * __Mile 4 (at Lot I)__ : Mark, W3SR
 * __Mile 5 (at Lot H)__ : Steve, KM4KWZ
 * __Mile 6 (at Lot G)__ : Derek, KV4SH
 * __Mile 7 (at the entrance to Oak Ridge)__ : Bill, K5AE
-* __Mile 8__ : Larry Reynolds
+* __Mile 8__ : Larry, K4MLA
 * __Mile 11__ : UNASSIGNED
 * __Aid @2/9 (at the crossroads of Burma and Scenic)__ : Greg, KM4CCG
 * __Aid @6 (at Lot G)__ : Brian, WC4J
-* __Water @4 (at Lot I)__ : John Held
+* __Water @4 (at Lot I)__ : John, KK4TCE
 * __Water @8 (at Lot F)__ : Brendan, KM4HRR
 
 
@@ -103,11 +103,13 @@ Return to [Summary] [section-summary]
 
 We will plan to operate on simplex at __147.525__, the normal ARES operational frequency. We will backstop this with the the K3FBI repeater at __147.345+__ __PL 167.9__. If things get really bad, we may switch to the Woodbridge machine at __147.240+__ __PL 107.2__. 
 
+Brian WC4J will be testing an APRS tracker mounted to Tail-End Charlie, if we can get permission. Anyone else with APRS gear interfaced with radio should listen and contribute. Cellular access is poor within the forest.
+
 Return to [Summary] [section-summary]
 
 ### Media Relations [section-media]
 
-Any questions asked by the public or the media, are to be directed to the Race Officials. We will have both our _PIOs_, __Tom, W4PIO__ and __Spenc, KG4GFW__ on site if anyone has questions about _Amateur Radio_ specifically. 
+Any questions asked by the public or the media, are to be directed to the Race Officials. We will have our _PIO_, __Tom, W4PIO__, on site if anyone has questions about _Amateur Radio_ specifically. 
 
 Return to [Summary] [section-summary]
 
@@ -119,7 +121,7 @@ Return to [Summary] [section-summary]
 
 ![Crossroad Map][img-crossroad_original]
 
-[img-crossroad_original]: http://pwcares.org/doc/1775map2017.pdf="1024px" height="768px"
+[img-crossroad_original]: http://pwcares.org/doc/1775map2018.pdf="1024px" height="768px"
 
 ### Prince William Forest Map
 
