@@ -1,5 +1,5 @@
 Title: Crossroads 17.75 Plan of Action
-Author: David A. Lane, KG4GIY, EC Prince William ARES
+Author: Derek LaHousse, KV4SH; David A. Lane, KG4GIY, EC Prince William ARES
 Email: ec@pwcares.org
 Date: 24 March 2018
 Keywords: MCM Crossroads 17.75
@@ -29,8 +29,8 @@ Version: 20180324 v1
 * _Tom Fournier, W4PIO, PIO_
 * Andreas Gamponia, KJ4MTP
 * Steve Halleman, KM4KWZ
-* Ray Hutt, AA4SI
 * Derek LaHousse, KV4SH
+* Ray Hutt, AA4SI
 * Phong Nguyen, KM4PRX
 * Bill Payne, K5AE
 * Mark Redlinger, W3SR
@@ -46,22 +46,16 @@ Return to [Summary] [section-summary]
 
 ## Assignments [section-assignments]
 
-* __Start-Stop__ : Tom, W4PIO
+* __Start-Stop__ : Tom, W4PIO and Derek KV4SH
+* __Mile 11__ : Jon, KK4UZD
 * __Mile 1/10 (enter off Dumfries)__ : Ray, AA4SI with Phong, KM4PRX
-* __Mile 2/9 (Turn at the crossroads of Burma and Scenic and proceed up the road)__ : Jon, KK4UZD
-* __Mile 3 (in the woods)__ : Andy, KJ4MTP
-* __Mile 4 (at Lot I)__ : Mark, W3SR
+* __Mile 2/9 (Burma and Scenic; Aid and Water)__ : Brian, WC4J and Andy, KJ4MTP
+* __Mile 3 (Turkey Ridge camp)__ : David, KG4GIY
+* __Mile 4 (at Lot I; Water)__ : Mark, W3SR and John, KK4TCE
 * __Mile 5 (at Lot H)__ : Steve, KM4KWZ
-* __Mile 6 (at Lot G)__ : Derek, KV4SH
-* __Mile 7 (at the entrance to Oak Ridge)__ : Bill, K5AE
-* __Mile 8__ : Larry, K4MLA
-* __Mile 11__ : UNASSIGNED
-* __Aid @2/9 (at the crossroads of Burma and Scenic)__ : Greg, KM4CCG
-* __Aid @6 (at Lot G)__ : Brian, WC4J
-* __Water @4 (at Lot I)__ : John, KK4TCE
-* __Water @8 (at Lot F)__ : Brendan, KM4HRR
-
-
+* __Mile 6 (at Lot G; Aid and Water)__ : Greg, KM4CCG
+* __Mile 7 (entrance to Oak Ridge camp)__ : Bill, K5AE
+* __Mile 8 (Scenic and trail; Water)__ : Larry, K4MLA and Brendan, KM4HRR
 Return to [Summary] [section-summary]
 
 ---
