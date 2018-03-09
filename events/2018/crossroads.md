@@ -115,18 +115,18 @@ Return to [Summary] [section-summary]
 
 ![Crossroad Map][img-crossroad_original]
 
-[img-crossroad_original]: http://pwcares.org/doc/1775map2018.pdf="1024px" height="768px"
+[img-crossroad_original]: http://pwcares.org/doc/1775K_CourseMap_2018.jpg width="1024px" height="768px"
 
 ### Prince William Forest Map
 
 ![PWForest Map][img-forest_original]
 
-[img-forest_original]: http://pwcares.org/doc/PRWImap1.pdf="1024px" height="768px"
+[img-forest_original]: http://pwcares.org/doc/PRWImap1.jpg width="1024px" height="768px"
 
 ### Parking Pass
 
 ![2017 Parking Pass][img-parking_original]
 
-[img-parking_original]: http://pwcares.org/doc/1775hampass.pdf="1024px" height="768px"
+[img-parking_original]: http://pwcares.org/doc/1775hampass.pdf width="1024px" height="768px"
 
 Return to [Summary] [section-summary]
