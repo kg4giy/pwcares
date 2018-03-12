@@ -29,8 +29,8 @@ Version: 20180324 v1
 * _Tom Fournier, W4PIO, PIO_
 * Andreas Gamponia, KJ4MTP
 * Steve Halleman, KM4KWZ
-* Derek LaHousse, KV4SH
 * Ray Hutt, AA4SI
+* Derek LaHousse, KV4SH
 * Phong Nguyen, KM4PRX
 * Bill Payne, K5AE
 * Mark Redlinger, W3SR
@@ -39,6 +39,7 @@ Version: 20180324 v1
 * Larry Reynolds, K4MLA
 * Jonathan Ortega, KK4UZD
 * Greg Gresham, KM4CCG
+* Richard Shannon, KJ4ZIH
 
 Return to [Summary] [section-summary]
 
@@ -49,13 +50,18 @@ Return to [Summary] [section-summary]
 * __Start-Stop__ : Tom, W4PIO and Derek KV4SH
 * __Mile 11__ : Jon, KK4UZD
 * __Mile 1/10 (enter off Dumfries)__ : Ray, AA4SI with Phong, KM4PRX
-* __Mile 2/9 (Burma and Scenic; Aid and Water)__ : Brian, WC4J and Andy, KJ4MTP
-* __Mile 3 (Turkey Ridge camp)__ : David, KG4GIY
-* __Mile 4 (at Lot I; Water)__ : Mark, W3SR and John, KK4TCE
+* __Mile 2/9 (Turn at the crossroads of Burma and Scenic and proceed up the road)__ : Brian, WC4J
+* __Aid @2/9 (at the crossroads of Burma and Scenic)__ : Andy, KJ4MTP and Richard, KJ4ZIH
+* __Mile 3 (in the woods)__ : David, KG4GIY
+* __Mile 4 (at Lot I)__ : Mark, W3SR
+* __Water @4 (at Lot I)__ : John, KK4TCE
 * __Mile 5 (at Lot H)__ : Steve, KM4KWZ
-* __Mile 6 (at Lot G; Aid and Water)__ : Greg, KM4CCG
-* __Mile 7 (entrance to Oak Ridge camp)__ : Bill, K5AE
-* __Mile 8 (Scenic and trail; Water)__ : Larry, K4MLA and Brendan, KM4HRR
+* __Mile 6 (at Lot G; Water and Aid)__ : Greg, KM4CCG
+* __Mile 7 (at the entrance to Oak Ridge)__ : Bill, K5AE
+* __Mile 8__ : Larry, K4MLA
+* __Water @8 (at Lot F)__ : Brendan, KM4HRR
+
+
 Return to [Summary] [section-summary]
 
 ---
@@ -89,6 +95,8 @@ This is a mobile event, and depending on your location, you will want all 50 wat
 
 A head-set is almost a mandatory accessory, especially where they pump the music up to _11_[^fn-spinal_tap]. Your vehicle may act as a good damper.
 
+APRS equipment will be in testing, so turn on beacons on the air-interface, or collect tracks of beacons for radio surveys.
+
 Return to [Summary] [section-summary]
 
 [^fn-spinal_tap]:It's a <a href="http://www.imdb.com/title/tt0088258/quotes">Spinal Tap (movie)</a> reference.  
@@ -97,7 +105,7 @@ Return to [Summary] [section-summary]
 
 We will plan to operate on simplex at __147.525__, the normal ARES operational frequency. We will backstop this with the the K3FBI repeater at __147.345+__ __PL 167.9__. If things get really bad, we may switch to the Woodbridge machine at __147.240+__ __PL 107.2__. 
 
-Brian WC4J will be testing an APRS tracker mounted to Tail-End Charlie, if we can get permission. Anyone else with APRS gear interfaced with radio should listen and contribute. Cellular access is poor within the forest.
+Brian WC4J will be testing an APRS tracker mounted to Tail-End Charlie. Anyone else with APRS gear interfaced with radio should listen and contribute. Cellular access is poor within the forest.
 
 Return to [Summary] [section-summary]
 
@@ -125,7 +133,7 @@ Return to [Summary] [section-summary]
 
 ### Parking Pass
 
-![2017 Parking Pass][img-parking_original]
+![2018 Parking Pass][img-parking_original]
 
 [img-parking_original]: http://pwcares.org/doc/1775hampass.pdf width="1024px" height="768px"
 
