@@ -135,6 +135,6 @@ Return to [Summary] [section-summary]
 
 ![2018 Parking Pass][img-parking_original]
 
-[img-parking_original]: http://pwcares.org/doc/1775hampass.pdf width="1024px" height="768px"
+[img-parking_original]: http://pwcares.org/image/1775K_ParkingPasses_2018.jpg width="1024px" height="768px"
 
 Return to [Summary] [section-summary]
