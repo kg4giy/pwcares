@@ -1,13 +1,13 @@
 Title: PWCARES Quick Reference Guide
 Author: David A. Lane, KG4GIY, EC Prince William ARES
 Email: ec@pwcares.org
-Date: 22 January 2018 v6.4
+Date: 22 January 2018 v6.5
 Keywords: QRC PWCARES 2018 version6
 
 # Prince William County ARES
 ## Quick Reference Guide
 
-_version_: 6.4  
+_version_: 6.5  
 [Printable (PDF) Version][link-qrcpdf]  
 [Return to PWCARES][link-pwcares]
 
@@ -24,6 +24,7 @@ _version_: 6.4
 * [Go-Kit Essentials] [section-gokit]
 * [Incident Command System Forms] [section-ics]
 * [CSALTT] [section-csaltt]
+	* [Resource Form] [section-resource]
 * [Traffic Handling Quick Reference] [section-traffic]
 	* [_Hotel_ Codes] [section-hotel]
 	* [Group One] [section-groupone]
@@ -44,10 +45,13 @@ _version_: 6.4
 
 | Name      | Home       | Cell      | Work         |
 |:----------|:-----------|:----------|:-------------|
-| **David A. Lane, KG4GIY, EC**  | (703) 361-3042  | **(703) 628-3868**  | |
+| **David A. Lane, KG4GIY, EC**  | (703) 361-3042  | **(703) 628-3868**  | (571) 527-6539 |
+| Larry Bates, K0LB, AEC | (703) 590-2695 | (571) 352-2996 | |
 | Brian Cochran, WC4J, AEC  |                | (703) 965-6011  | |
-| David Meola, KI4AZX, AEC 	|                | (703) 307-7014  | |
+| Andy Gamponia, KJ4MTP, AEC |      | (703) 786-4651 | |
 | Ray Hutt, AA4SI, AEC  | (703) 670-2879  | (703) 203-2210  | |
+| David Meola, KI4AZX, AEC 	|                | (703) 307-7014  | |
+
 
 **If a repeater goes off-line, monitor the OUTPUT for instructions on which frequency to turn to!**
 
@@ -192,6 +196,19 @@ AECs and NCSs should become familiar with all the forms, especially the work-she
 ## CSALTT [section-csaltt]
 **for ordering provisions, resources, or teams**
 **C**-capability being requested  **S**-size  **A**-amount being requested  **L**-location the mission/resources are being deployed  **T**-FEMA Type  **T**-time the supplies/resources are needed  
+
+[Index] [section-index]
+
+### Prince William County's Resource Form [section-resource]
+
+![Resource CSALTT Section 1][img-resource1]
+
+[img-resource1]: http://pwcares.org/image/resouce-1.png width="320px" height="480px"
+
+
+![Resource CSALTT Section 2][img-resource2]
+
+[img-resource2]: http://pwcares.org/image/resouce-2.png width="320px" height="480px"
 
 [Index] [section-index]
 
