@@ -68,7 +68,7 @@ Return to [Summary] [section-summary]
 
 ## Rally Point [section-rally]
 
-We will meet at the __McDonald's__ at __18050 Triangle Shopping Plaza, Dumfries, VA 22026 in the Triangle Plaza__ in Dumfries (Route 1, approximately 1 mile north of Joplin Road) at __0530__. From there we will roll to the Prince William Forest Park. We must be on the course no later than __0630__ for those on the course. Tom will need to be at the Start/Stop by __0530__.
+We will meet at the __McDonald's__ at __18050 Triangle Shopping Plaza, Dumfries, VA 22026 in the Triangle Plaza__ in Dumfries (Route 1, approximately 1 mile north of Joplin Road) at __0530__. From there we will roll to the Prince William Forest Park via Joplin Rd. We must be on the course no later than __0630__ for those on the course. Assignments to Start/Stop will need to be at the Start/Stop by __0530__.
 The race starts at __0700__.
 
 Return to [Summary] [section-summary]
@@ -85,17 +85,17 @@ Return to [Summary] [section-summary]
 
 We have permission to access the course. Everyone will need a parking pass (below and in email). Parking on the course is permitted. For those with locations on the blacktop, please stay on the blacktop or pull off on to a utility road. Those in the woods, the road should be wide enough for you to pull to the side. Please be aware of the vegetation.
 
-Miles 3 through 7 may have better access from Joplin Road.
+Assignments before Mile 3 and after Mile 8 may access from 234. Miles 3 through 7 may have better access from Joplin Road.
 
 Return to [Summary] [section-summary]
 
 ### Equipment [section-equipment]
 
-This is a mobile event, and depending on your location, you will want all 50 watts. Depending on the needs at Start/Stop, an antenna/cross-band may be required (and can be loaned from stocks). 
+This is a mobile event, and depending on your location, you will want all 50 watts. Due to the needs at Start/Stop, Tom intends to set up an antenna/cross-band on __XBAND1__
 
 A head-set is almost a mandatory accessory, especially where they pump the music up to _11_[^fn-spinal_tap]. Your vehicle may act as a good damper.
 
-APRS equipment will be in testing, so turn on beacons on the air-interface, or collect tracks of beacons for radio surveys.
+APRS equipment will be in testing, so turn on beacons on the air-interface, or collect tracks of beacons for radio surveys. APRS will use the standard frequency __144.390__. Paths should be no longer than "WIDE1-1".
 
 Return to [Summary] [section-summary]
 
