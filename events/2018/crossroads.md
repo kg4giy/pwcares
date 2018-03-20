@@ -105,7 +105,7 @@ Return to [Summary] [section-summary]
 
 We will plan to operate on simplex at __147.525__, the normal ARES operational frequency. We will backstop this with the the K3FBI repeater at __147.345+__ __PL 167.9__. If things get really bad, we may switch to the Woodbridge machine at __147.240+__ __PL 107.2__. 
 
-Brian WC4J will be testing an APRS tracker mounted to Tail-End Charlie. Anyone else with APRS gear interfaced with radio should listen and contribute. Cellular access is poor within the forest.
+Brian WC4J will be testing an APRS tracker mounted to Tail-End Charlie. Anyone else with APRS gear interfaced with radio should listen and contribute. Please make sure your APRS tracker is set to WIDE1-1,WIDE2-1 so we can capture packets accurately. Cellular access is poor within the forest.
 
 Return to [Summary] [section-summary]
 
