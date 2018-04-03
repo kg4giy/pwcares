@@ -1,13 +1,13 @@
 Title: PWCARES Quick Reference Guide
 Author: David A. Lane, KG4GIY, EC Prince William ARES
 Email: ec@pwcares.org
-Date: 22 January 2018 v6.5
+Date: 22 January 2018 v6.6
 Keywords: QRC PWCARES 2018 version6
 
 # Prince William County ARES
 ## Quick Reference Guide
 
-_version_: 6.5  
+_version_: 6.6  
 [Printable (PDF) Version][link-qrcpdf]  
 [Return to PWCARES][link-pwcares]
 
@@ -47,7 +47,6 @@ _version_: 6.5
 |:----------|:-----------|:----------|:-------------|
 | **David A. Lane, KG4GIY, EC**  | (703) 361-3042  | **(703) 628-3868**  | (571) 527-6539 |
 | Larry Bates, K0LB, AEC | (703) 590-2695 | (571) 352-2996 | |
-| Brian Cochran, WC4J, AEC  |                | (703) 965-6011  | |
 | Andy Gamponia, KJ4MTP, AEC |      | (703) 786-4651 | |
 | Ray Hutt, AA4SI, AEC  | (703) 670-2879  | (703) 203-2210  | |
 | David Meola, KI4AZX, AEC 	|                | (703) 307-7014  | |
