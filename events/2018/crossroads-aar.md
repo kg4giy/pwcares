@@ -11,7 +11,7 @@ Version: 20180403-01
 ## Overview [section-summary]
 * [Success] [section-success]
 * [Improvements] [section-fail]
-* [Suggestions] [sections-goodideafairy]
+* [Suggestions] [section-goodideafairy]
 
 ---
 
@@ -26,6 +26,8 @@ Liaison to MCM Command: Provided by Derek KV4SH.  Informal tracking messages pas
 ## Improvements [section-fail]
 
 Planned site for temporary repeater was insufficient.  The location where Brian WC4J was assigned had no siding, preventing antenna deployment.  The location assigned for Tom W4PIO's repeater was expedient, but could likely be improved.
+
+Alternate sites include Turkey Run, which is usually fully populated by campers. For the Start/Stop location, being able to return the antenna to a site away from the powerlines would be prefered. 
 
 APRS Tracking: Tracker was emplaced on tail-end vehicle.  Beacons were tracked well within a mile of WC4J-14, who provided a relay hop to the most common igate, W4KEL-12.  A few data points were collected directly at the southern- and western-most points of the course by W4KEL-12.  Other paths were found to use W4IY and N3HF, both of which were igated by W4VA.  APRS information was not used to improve the tactical awareness of the event.
 
