@@ -1,0 +1,54 @@
+
+/* CSS 2.x not supported
+ol {counter-reset: ordered;}
+ol li:before {counter-increment: ordered; content: counters(ordered,".") " - ";} */
+
+/* CSS for cascading numbers	*/
+
+/* ol.section {list-style-type: decimal;} */
+
+h1 {
+	margin-bottom: 0;
+	/*margin-top: 1em;*/
+	text-align: center;
+}
+
+.table {
+	text-align: center;
+}
+
+.table table {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+	font-size: small;
+}
+
+li {
+	list-style-type: none;
+}
+
+
+div#version {
+	text-align: center;
+	margin-top: 1em;
+	font-family: sans-serif;
+	font-size: small;
+}
+
+
+div#footer {
+	text-align: center; 
+	margin-top: 1em;
+	border-top: 1px;
+	padding-top: 1em;
+	font-family:serif;
+	font-size: small;
+}

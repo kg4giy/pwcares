@@ -1,0 +1,154 @@
+/* CSS style sheet                                   */
+/* Created 20 August 2004 by DAL                     */
+/* Last updated 1 February 2005 by DAL               */
+/*                                                   */
+/* Created to support PWCARES web site               */
+/* filename: master.css                              */
+
+
+.center {
+	text-align: center;
+}
+
+.center table {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+
+/* Main Body	*/
+
+#content {
+	padding: 50px;
+    width: auto;
+    position: relative;
+	margin: 0px 50px 20px 175px;
+}
+
+#content a:link, a:visited {
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+#content h2, h3 {
+	font-variant: small-caps;
+}
+
+#content p {
+	font-family: sans-serif;
+	font-size: 0.8em;
+	text-align: justify;
+}
+
+/* status bars	*/
+
+#status {
+	padding: 0px;
+    text-align: left;
+    width: 175px;
+    position: absolute;
+    left: 10px;
+    top: 130px;
+    font-family: sans-serif;
+    font-size: 0.8em;
+}
+
+/* navigation bar */
+
+#nav h5 {
+    display: none;
+}
+
+#nav {
+	font-family: sans-serif;
+	font-size: 0.7em;
+	font-weight: bold;
+	width: 14em;
+	border-right: 1px solid #666;
+	padding: 0;
+	margin-bottom: 1em;
+	background-color: #9cc;
+	color: #333;
+	position: absolute;
+    left: 10px;
+    top: 200px;
+}
+
+#nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#nav ul li {
+	margin: 0;
+	border-top: 1px solid #003;
+}
+
+#nav ul li a {
+	display: block;
+	padding: 2px; 2px; 2px; 0.5em;
+	border-left: 10px solid #369;
+	border-right: 1px solid #69c;
+	border-bottom: 1px solid #369;
+	background-color: #036;
+	color: #fff;
+	text-decoration: none;
+	width: 100%;
+}
+
+html>body #nav ul li a {
+	width: auto;
+}
+
+#nav ul li a:hover{
+	border-left: 10px solid #036
+	border-right: 1px solid #69c;
+	border-bottom: 1px solid #369;
+	background-color: #69f;
+	color: #fff;
+}
+
+/* Event Calendar	*/
+
+#events h2, p {
+	text-align: center;
+}
+
+/*#events p {
+	text-align: center;
+} */
+
+#events table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+
+#events a:link, a:visited {
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+/* Action Plan	*/
+
+div#action li {
+	list-style-type: none;
+}
+
+/* Footer	*/
+div#footer {
+	text-align: center; 
+	margin-top: 1em;
+	border-top: 1px;
+	padding-top: 1em;
+	font-family:serif;
+	font-size: small;
+}
+
+div#footer a:link, a:visited {
+	text-decoration: none;
+	font-family: sans-serif;
+}

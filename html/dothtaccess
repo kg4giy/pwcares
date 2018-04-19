@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Access to /members"
+AuthUserFile /kunden/homepages/37/d176379710/htpasswd
+Require user pwcares
