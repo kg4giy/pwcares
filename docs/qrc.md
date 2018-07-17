@@ -7,7 +7,7 @@ Keywords: QRC PWCARES 2018 version6
 # Prince William County ARES
 ## Quick Reference Guide
 
-_version_: 6.6  
+_version_: 6.7  
 [Printable (PDF) Version][link-qrcpdf]  
 [Return to PWCARES][link-pwcares]
 
@@ -79,7 +79,7 @@ _version_: 6.6
 | 11             | LOU2M/Loudon ARES      | 145.310 - | |
 | 12             | DULLES/Dulles Airport 2m machine, max 15w out | 147.330 + | 203.5 Hz |
 | 21             | OVH440/Command and Control/Operations and Logistics | 442.200 + | |
-| 22             | WWI440/Command and Control/Operations and Logistics | 444.900 + | |
+| 22             | WWI440/Command and Control/Operations and Logistics | 444.900 + | 127.3 |
 | 23             | FALLSC/Fall Church ARES | 442.425 + | 91.5 Hz |
 | 24             | NERA/Main Repeater, linked system | 442.725 + | 107.2 Hz |
 | 25             | NERA/DC | 449.975 - | 107.2 Hz |
