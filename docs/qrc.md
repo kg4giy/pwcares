@@ -1,13 +1,13 @@
 Title: PWCARES Quick Reference Guide
 Author: David A. Lane, KG4GIY, EC Prince William ARES
 Email: ec@pwcares.org
-Date: 22 January 2018 v6.6
+Date: 24 August 2018 v6.8
 Keywords: QRC PWCARES 2018 version6
 
 # Prince William County ARES
 ## Quick Reference Guide
 
-_version_: 6.7  
+_version_: 6.8  
 [Printable (PDF) Version][link-qrcpdf]  
 [Return to PWCARES][link-pwcares]
 
@@ -351,17 +351,13 @@ _Emergency/priority messages originating from official sources must carry the si
 
 **ICS 214 Unit Log**
 
-![ICS 214 Unit Log][img-214_original]
+![ICS 214 Unit Log Page 1][img-214_original]
 
-[img-214_original]: http://www.pwcares.org/image/qrc/214.jpg width="320px" height="480px"
+[img-214_original]: http://www.pwcares.org/image/qrc/214-1.jpg width="320px" height="480px"
 
+![ICS 214 Unit Log Page 2][img-214_original]
 
-**ICS 214a Individual Log**
-
-![ICS 214a Individual Log][img-214a_original]
-
-[img-214a_original]: http://www.pwcares.org/image/qrc/214a.jpg width="320px" height="480px"
-
+[img-214_original]: http://www.pwcares.org/image/qrc/214-2.jpg width="320px" height="480px"
 
 
 #### Misc [section-misc]
