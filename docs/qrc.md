@@ -1,13 +1,13 @@
 Title: PWCARES Quick Reference Guide
 Author: David A. Lane, KG4GIY, EC Prince William ARES
 Email: ec@pwcares.org
-Date: 22 January 2018 v6.6
+Date: 24 August 2018 v6.8
 Keywords: QRC PWCARES 2018 version6
 
 # Prince William County ARES
 ## Quick Reference Guide
 
-_version_: 6.6  
+_version_: 6.8  
 [Printable (PDF) Version][link-qrcpdf]  
 [Return to PWCARES][link-pwcares]
 
@@ -79,7 +79,7 @@ _version_: 6.6
 | 11             | LOU2M/Loudon ARES      | 145.310 - | |
 | 12             | DULLES/Dulles Airport 2m machine, max 15w out | 147.330 + | 203.5 Hz |
 | 21             | OVH440/Command and Control/Operations and Logistics | 442.200 + | |
-| 22             | WWI440/Command and Control/Operations and Logistics | 444.900 + | |
+| 22             | WWI440/Command and Control/Operations and Logistics | 444.900 + | 127.3 |
 | 23             | FALLSC/Fall Church ARES | 442.425 + | 91.5 Hz |
 | 24             | NERA/Main Repeater, linked system | 442.725 + | 107.2 Hz |
 | 25             | NERA/DC | 449.975 - | 107.2 Hz |
@@ -351,17 +351,13 @@ _Emergency/priority messages originating from official sources must carry the si
 
 **ICS 214 Unit Log**
 
-![ICS 214 Unit Log][img-214_original]
+![ICS 214 Unit Log Page 1][img-214_original]
 
-[img-214_original]: http://www.pwcares.org/image/qrc/214.jpg width="320px" height="480px"
+[img-214_original]: http://www.pwcares.org/image/qrc/214-1.jpg width="320px" height="480px"
 
+![ICS 214 Unit Log Page 2][img-214_original]
 
-**ICS 214a Individual Log**
-
-![ICS 214a Individual Log][img-214a_original]
-
-[img-214a_original]: http://www.pwcares.org/image/qrc/214a.jpg width="320px" height="480px"
-
+[img-214_original]: http://www.pwcares.org/image/qrc/214-2.jpg width="320px" height="480px"
 
 
 #### Misc [section-misc]
