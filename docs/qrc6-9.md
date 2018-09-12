@@ -1,13 +1,13 @@
 Title: PWCARES Quick Reference Guide
 Author: David A. Lane, KG4GIY, EC Prince William ARES
 Email: ec@pwcares.org
-Date: 24 August 2018 v6.8
+Date: 12 September 2018 v6.9
 Keywords: QRC PWCARES 2018 version6
 
 # Prince William County ARES
 ## Quick Reference Guide
 
-_version_: 6.8  
+_version_: 6.9  
 [Printable (PDF) Version][link-qrcpdf]  
 [Return to PWCARES][link-pwcares]
 
@@ -34,6 +34,7 @@ _version_: 6.8
 	* [Hospitals] [section-hospital]
 	* [Other places of interest] [section-other]
 * [Templates and other tools] [section-template]
+	* [Clarence Box] [section-clarence]
 	* [Forms] [section-forms]
 	* [Misc] [section-misc]
 	* [FT-8800 Quick Reference Guide] [section-8800]
@@ -318,6 +319,40 @@ _Emergency/priority messages originating from official sources must carry the si
 ---
 
 ## Templates and other tools [section-template]
+
+### Clarence Box [section-clarence]
+
+In the early part of 2000, Clarence Meese, K4CNM (SK) showed up with an interesting kit. It was a self-contained radio kit housed in an audio rack case. This idea caught on in the cadre and several others created boxes of their own, using a variety of things from ammo cans to tool chests. Clarence may not have originated the idea, but he did spur a whole new wave of *go-kit* creation. In 2018, Prince William County Office of Emergency Managment purchased a number of radios and associated gear for a radio cache. These radios are housed in 6U Gator cases. In honor of our friend Clarence, we refer to these, and similar cases as *Clarence boxes*. 
+
+#### Power Up from Storage
+
+1. Make sure the box is right side up. The Gator case logo should be on the bottom right hand side. 
+2. Remove the covers by undoing the clips on each cover. Careful, there is an inverter, and several cables in the rear cover. 
+3. The front of the case has the radio face, the rear has a six unit grill. Open the grill. If you are using commercial power, you will find the power cord for the power supply under the shelf. It is about six feet long, pull it gently out of the box. It should be attached to the power supply. Do not pull it out of the supply!
+4. Attach the antenna cable to the radio once you have attached it to the antenna.
+5. Plug in the power supply and turn it on with the switch in the front. 
+6. Inside the box, on the top rear, you will find a PowerGate. When you switch on the power supply, a solid green light and a blinking green light should be visible. Press the red button on the PowerGate (labled **Suspend** in the picture) ![PowerGate][img-powergate] for about five seconds. When you release, the flashing green light will likely turn to a flashing blue light. It may go solid blue depending on when the battery was last charged.
+7. Press the grey **On-Off** button ![RigRunner][img-rigrunner] on the RigRunner. It should indicate watts and Amps. 
+7. You should be able to make room in the bottom right corner of the rear to close the grill. Close the grill.
+8. Turn on the radio. Complete your set up. 
+
+
+#### Power Down for Storage
+
+1. Turn off the radio. 
+2. Disconnect the antenna cable from the radio. Leave all other connections in place. 
+3. Press the grey **On-Off** button ![RigRunner][img-rigrunner] on the RigRunner until the LEDs go out. Should take three seconds. 
+4. Press the **Suspend** button on the PowerGate. ![PowerGate][img-powergate] In about six to ten seconds, the charge light (usually blue, could be flashing) will turn green. 
+5. Turn off the power supply (if you turned it on).
+6. Pack the power cable into the space under the shelf.
+7. Put the inverter and cables into the cover that will go over the back part of the case. Attach the covers to the case, logo down. 
+8. Pack up the antenna, stand, and cables. 
+8. Deliver to pick up location as indicated in the demobilization instructions.
+
+[img-powergate]: http://pwcares.org/image/epic-pwrgate.jpg
+
+[img-rigrunner]: http://pwcares.org/image/4007U-bigZoom.jpg
+
 
 #### Forms [section-forms]
 
