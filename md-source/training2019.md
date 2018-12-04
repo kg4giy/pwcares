@@ -22,7 +22,7 @@ _All members_
 * [IS-546.A Continuity of Operations Awareness Course](https://training.fema.gov/is/courseoverview.aspx?code=is-546.A)
 * EOC-101 Operation in the PWC EOC. Classroom based. Date to be announced
 * G-191 Incident Command System/Emergency Operations Center Interface. Classroom based.
-* G-775 EOC Management and Operations
+* G-775 EOC Management and Operations. Classroom based.
 
 _Optional_
 
