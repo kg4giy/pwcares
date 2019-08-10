@@ -13,7 +13,7 @@ CREATE TABLE call_sign
   photo VARCHAR(50)
 );
 
-LOAD DATA INFILE '/tmp/call.txt'
+LOAD DATA INFILE '/tmp/call.csv'
 INTO TABLE pwcares.call_sign
 FIELDS TERMINATED BY ',';
 
@@ -25,36 +25,36 @@ CREATE TABLE training
 ( train_id INT(5) NOT NULL, 
   cwxmt INT(2), 
   cwrcv INT(2), 
-  areccv1 INT(1), 
+  areccv1 VARCHAR(7), 
   skywarn VARCHAR(10), 
-  rc_intro INT(1), 
-  rc_shelter INT(1), 
-  rc_dat INT(1), 
-  cpr_adult INT(1),
-  cpr_ic INT(1),
-  cpr_aed INT(1),
-  first_aid INT(1),
+  rc_intro VARCHAR(7), 
+  rc_shelter VARCHAR(7), 
+  rc_dat VARCHAR(7), 
+  cpr_adult VARCHAR(7),
+  cpr_ic VARCHAR(7),
+  cpr_aed VARCHAR(7),
+  first_aid VARCHAR(7),
   cert VARCHAR(20),
-  is_700 INT(1),
-  is_800 INT(1),
-  is_100 INT(1),
-  is_200 INT(1),
-  is_300 INT(1),
-  is_400 INT(1),
-  is_706 INT(1),
-  is_546 INT(1),
-  eoc_101 INT(1),
-  g_191 INT(1),
-  g_775 INT(1),
-  is_702 INT(1),
-  is_703 INT(1),
-  is_120 INT(1),
-  is_230 INT(1),
-  e_969 INT(1),
-  is_29 INT(1)
+  is_700 VARCHAR(7),
+  is_800 VARCHAR(7),
+  is_100 VARCHAR(7),
+  is_200 VARCHAR(7),
+  is_300 VARCHAR(7),
+  is_400 VARCHAR(7),
+  is_706 VARCHAR(7),
+  is_546 VARCHAR(7),
+  eoc_101 VARCHAR(7),
+  g_191 VARCHAR(7),
+  g_775 VARCHAR(7),
+  is_702 VARCHAR(7),
+  is_703 VARCHAR(7),
+  is_120 VARCHAR(7),
+  is_230 VARCHAR(7),
+  e_969 VARCHAR(7),
+  is_29 VARCHAR(7)
 );
 
-LOAD DATA INFILE '/tmp/training.txt'
+LOAD DATA INFILE '/tmp/training.csv'
 INTO TABLE pwcares.training
 FIELDS TERMINATED BY ',';
 
