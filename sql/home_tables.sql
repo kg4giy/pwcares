@@ -19,7 +19,7 @@ create table home_address
   email1, VARCHAR(30),
   he1primary VARCHAR(7),
   email2 VARCHAR(30),
-  he2primary VARCHAR(7),
+  he2primary VARCHAR(7)
  );
 
 LOAD DATA INFILE '/tmp/home.csv'
