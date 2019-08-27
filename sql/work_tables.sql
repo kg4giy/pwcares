@@ -26,7 +26,7 @@ create table work_address
 
 LOAD DATA INFILE '/tmp/work.csv'
 INTO TABLE pwcares.work_address
-FIELDS TERMINATED BY ',';
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"';
 
 //Headers for Home table
 
