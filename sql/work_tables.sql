@@ -8,7 +8,7 @@ create table work_address
   work3 VARCHAR(40),
   city VARCHAR(20),
   state VARCHAR(2),
-  zip INT(10),
+  zip VARCHAR(10),
   phone1 VARCHAR(15),
   wp1ext VARCHAR(6),
   w1primary VARCHAR(7),
@@ -19,9 +19,9 @@ create table work_address
   wc1primary VARCHAR(7),
   cell2 VARCHAR(15),
   wc2primary VARCHAR(7),
-  email1 VARCHAR(30),
+  email1 VARCHAR(50),
   we1primary VARCHAR(7),
-  email2 VARCHAR(30),
+  email2 VARCHAR(50),
   we2primary VARCHAR(7)
  );
 
