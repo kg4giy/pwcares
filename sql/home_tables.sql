@@ -14,9 +14,9 @@ create table home_address
   h2primary VARCHAR(7),
   cell1 VARCHAR(15),
   hc1primary VARCHAR(7),
-  cell2, VARCHAR(15),
+  cell2 VARCHAR(15),
   hc2primary VARCHAR(7),
-  email1, VARCHAR(30),
+  email1 VARCHAR(30),
   he1primary VARCHAR(7),
   email2 VARCHAR(30),
   he2primary VARCHAR(7)
