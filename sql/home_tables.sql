@@ -13,6 +13,7 @@ create table home_address
   phone2 VARCHAR(15),
   h2primary VARCHAR(7),
   cell1 VARCHAR(15),
+  hc1email VARCHAR(30),
   hc1primary VARCHAR(7),
   cell2 VARCHAR(15),
   hc2primary VARCHAR(7),
@@ -24,7 +25,7 @@ create table home_address
 
 LOAD DATA INFILE '/tmp/home.csv'
 INTO TABLE pwcares.home_address
-FIELDS TERMINATED BY ',';
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"';
 
 //Headers for Home table
 

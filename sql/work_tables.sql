@@ -15,6 +15,7 @@ create table work_address
   phone2 VARCHAR(15),
   w2primary VARCHAR(7),
   cell1 VARCHAR(15),
+  wc1email VARCHAR(30),
   wc1primary VARCHAR(7),
   cell2 VARCHAR(15),
   wc2primary VARCHAR(7),
