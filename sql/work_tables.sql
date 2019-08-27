@@ -1,8 +1,6 @@
 
 use pwcares;
 
-use pwcares;
-
 create table work_address
 ( id INT(5) NOT NULL,
   work1 VARCHAR(40),
@@ -18,9 +16,9 @@ create table work_address
   w2primary VARCHAR(7),
   cell1 VARCHAR(15),
   wc1primary VARCHAR(7),
-  cell2, VARCHAR(15),
+  cell2 VARCHAR(15),
   wc2primary VARCHAR(7),
-  email1, VARCHAR(30),
+  email1 VARCHAR(30),
   we1primary VARCHAR(7),
   email2 VARCHAR(30),
   we2primary VARCHAR(7)
