@@ -1,4 +1,6 @@
-﻿
+
+DROP TABLE pwcares.home_address
+
 use pwcares;
 
 create table home_address
@@ -23,7 +25,7 @@ create table home_address
   he2primary VARCHAR(7)
  );
 
-DROP TABLE pwcares.home_address
+
 LOAD DATA INFILE '/tmp/home.csv'
 INTO TABLE pwcares.home_address
 FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"';
