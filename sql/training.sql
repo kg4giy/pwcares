@@ -34,9 +34,10 @@ CREATE TABLE training
   is_241 VARCHAR(1),
   is_242 VARCHAR(1),
   is_244 VARCHAR(1),
-  IS_288 VARCHAR(1),
+  is_288 VARCHAR(1),
   e_969 VARCHAR(1),
-  is_29 VARCHAR(1)
+  is_29 VARCHAR(1),
+  ec-016 VARCHAR(1)
 );
 
 
