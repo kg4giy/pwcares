@@ -52,7 +52,7 @@ FIELDS TERMINATED BY ',';
 
 //Join query to select entries for reporting
 
-SELECT pwcares.call_sign.call_sign, pwcares.call_sign.last, pwcares.call_sign.first, pwcares.call_sign.appointment, pwcares.training.is_100, pwcares.training.is_200,pwcares.training.is_300, pwcares.training.is_400, pwcares.training.is_700, pwcares.training.is_800, pwcares.training.is_1300, pwcares.training.g_191, pwcares.training.g_775, pwcares.training.eoc_101 
+SELECT pwcares.call_sign.call_sign, pwcares.call_sign.last, pwcares.call_sign.first, pwcares.call_sign.appointment, pwcares.training.is_100, pwcares.training.is_200,pwcares.training.is_300, pwcares.training.is_400, pwcares.training.is_700, pwcares.training.is_800, pwcares.training.is_546, pwcares.training.is_1300, pwcares.training.g_191, pwcares.training.g_775, pwcares.training.eoc_101 
 INTO OUTFILE '/tmp/training_status.txt' 
 FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n'
 FROM pwcares.call_sign right join pwcares.training on pwcares.call_sign.call_sign_id=pwcares.training.train_id WHERE pwcares.call_sign.status = 'A';
