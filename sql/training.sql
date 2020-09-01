@@ -1,6 +1,8 @@
 
 use pwcares;
 
+DROP TABLE training;
+
 CREATE TABLE training
 ( train_id VARCHAR(5) NOT NULL, 
   cwxmt VARCHAR(2), 
@@ -40,8 +42,7 @@ CREATE TABLE training
   is_288 VARCHAR(1),
   is_2200 VARCHAR(1),
   is_29 VARCHAR(1),
-  e_969 VARCHAR(1),
-  is_29 VARCHAR(1),
+  ec_969 VARCHAR(1),
   ec_016 VARCHAR(1),
   auxcomm VARCHAR(1)
 );
