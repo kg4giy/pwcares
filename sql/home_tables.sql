@@ -1,7 +1,6 @@
+use pwcares;
 
 DROP TABLE pwcares.home_address
-
-use pwcares;
 
 create table home_address
 ( id INT(5) NOT NULL,
