@@ -1,8 +1,10 @@
 
 use pwcares;
 
+DROP TABLE pwcares.work_address;
+
 create table work_address
-( id INT(5) NOT NULL,
+( id VARCHAR(5) NOT NULL,
   work1 VARCHAR(40),
   work2 VARCHAR(40),
   work3 VARCHAR(40),
