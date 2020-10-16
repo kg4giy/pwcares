@@ -4,7 +4,7 @@ use pwcares;
 DROP TABLE call_sign;
 
 CREATE TABLE call_sign 
-( call_sign_id INT(5) NOT NULL, 
+( call_sign_id VARCHAR(5) NOT NULL, 
   call_sign VARCHAR(6), 
   last VARCHAR(100), 
   first VARCHAR(100), 

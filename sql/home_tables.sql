@@ -1,9 +1,9 @@
 use pwcares;
 
-DROP TABLE pwcares.home_address
+DROP TABLE pwcares.home_address;
 
-create table home_address
-( id INT(5) NOT NULL,
+CREATE TABLE home_address
+( home_id VARCHAR(5) NOT NULL,
   home1 VARCHAR(40),
   home2 VARCHAR(40),
   city VARCHAR(20),
