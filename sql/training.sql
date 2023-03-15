@@ -48,8 +48,6 @@ CREATE TABLE training
 );
 
 
-//Load data 
-
 LOAD DATA INFILE '/tmp/training.csv'
 INTO TABLE pwcares.training
 FIELDS TERMINATED BY ',';
